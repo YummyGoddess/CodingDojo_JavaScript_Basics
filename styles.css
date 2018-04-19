@@ -1,0 +1,74 @@
+body {
+  width: 970px;
+  background-color: navy;
+}
+
+.header {
+  display: block;
+  background-color: red;
+  height: 80px;
+  border-radius: 25px;
+  margin: 10px 5px 10px 5px;
+
+
+
+
+
+}
+.heading {
+  font-size: 25px;
+  color: white;
+  padding-left: 15px;
+
+
+}
+.sidebar {
+  word-wrap: break-word;
+  font-size: 15px;
+  color: white;
+  text-decoration: underline;
+  vertical-align: top;
+  background-color: teal;
+  display: inline-block;
+  border-radius: 25px;
+  padding: 10px 5px;
+  width: 15%;
+  margin: 10px 5px 0px 5px;
+
+
+}
+.main {
+  font-size: 15px;
+  vertical-align: top;
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  padding: 15px;
+  display: inline-block;
+  width: 60%
+
+
+}
+.subChapter {
+  list-style-type: circle;
+  list-style-position: inherit;
+  margin-left: 15px;
+
+}
+.footer {
+  background-color: grey;
+  color: white;
+  font-size: 15px;
+  padding-left: 20px;
+  border-radius: 15px;
+  height: 45px;
+  text-align:
+
+}
+.blue {
+  color: blue;
+}
+.def {
+  color: teal;
+  text-decoration: underline;
+}
